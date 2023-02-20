@@ -1,24 +1,3 @@
-{
-  "dependencies": {
-    "express": "^4.18.2",
-    "nodemon": "^2.0.20"
-  },
-  "name": "quotesapi",
-  "version": "1.0.0",
-  "main": "index.js",
-  "devDependencies": {},
-  "scripts": {
-    "start": "nodemon index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Milhow/Motivational-Quotes.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Milhow/Motivational-Quotes/issues"
-  },
-  "homepage": "https://github.com/Milhow/Motivational-Quotes#readme",
-  "description": ""
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7d37f930140b12b0e647a588227496d01582c5aebdc92237fac619ed4f330ca
+size 542
